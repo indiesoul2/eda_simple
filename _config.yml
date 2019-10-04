@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   파이썬과 R을 이용하여 다양한 데이터 분석과 Visualization 수행 후 
   그 결과를 모아 두려는 목적으로 블로그 형식으로 운영합니다.
 permalink: ':title/'
-baseurl: "/test2" # the subpath of your site, e.g. /blog
+baseurl: "/eda" # the subpath of your site, e.g. /blog
 url: "http://indiesoul2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
@@ -15,7 +15,7 @@ social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: "indiesoul2@gmail.com" # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
